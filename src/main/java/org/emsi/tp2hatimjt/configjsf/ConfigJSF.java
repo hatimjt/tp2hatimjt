@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package org.emsi.tp2hatimjt.configjsf;
-
+// classe de configuration pour jsf
 /**
  *
  * @author hatim

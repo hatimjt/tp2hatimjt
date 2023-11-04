@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import jakarta.inject.Named;
 import jakarta.enterprise.context.RequestScoped;
-
+//back bean bean
 @Named(value = "bean")
 @RequestScoped
 public class Bean {
